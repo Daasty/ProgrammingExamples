@@ -5,6 +5,7 @@ public class PruebaCubo {
         Cubo cubito = new Cubo(2);
         Cubo cubote = new Cubo(7);
         Cubo cubazo = new Cubo(10);
+        Cubo chupito = new Cubo(1);
         System.out.println("Cubito: \n");
         cubito.pinta();
         System.out.println("\nCubote: \n");
